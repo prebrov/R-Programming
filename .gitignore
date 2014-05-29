@@ -7,7 +7,7 @@
 # R data files from past sessions
 .Rdata
 .Rproj.user
-
+.Rproj
 
 # It's a different repo
 ProgrammingAssignment2
