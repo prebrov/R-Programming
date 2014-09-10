@@ -6,10 +6,10 @@
 
 # R data files from past sessions
 .Rdata
-.Rproj.user
 
-# R Project file
+# RStudio files
+.Rproj.user/
 *.Rproj
 
-# It's a different repo
-ProgrammingAssignment2
+# Projects and quizes and such cloned from other repos
+_external
